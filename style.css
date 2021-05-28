@@ -1,0 +1,41 @@
+*, *::after, *::before{
+//list-style-position: inside;
+}
+Header, footer{
+background-color: #212227;
+text-align: center;
+font-family: Brush Script MT;
+color: #8693AB;
+}
+header{
+padding: 10px 0 0 0;
+}
+body{
+  margin:0;
+  padding:0;
+  color: #1B354B;
+  background-color: #BDD4E7;
+  
+}
+h2{
+  text-align:center;
+  font-size: 17px;
+}
+.photo{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.center{
+  text-align: center;
+}
+.center2{
+  margin: 0 15%;
+}
+hr{
+
+  border: 2px solid #212227;
+}
+footer{
+  padding: 3px 0 2px;
+}
